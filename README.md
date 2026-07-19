@@ -6,7 +6,7 @@
 
 <p>
   <!-- Картинка человечка с выравниванием по правому краю -->
-  <img src="lomka.gif" width="30%" align="right" />
+  <img src="set_7396_by_makestick3_bot_AgADmZQAAnLOUUo.webm"align="right" />
 
   <!-- Текст, который будет обтекать её слева -->
   <img src="text (14).gif" alt="Yo! I'm" width="50%" />
