@@ -5,10 +5,9 @@
 
 
 <p>
-  <!-- Картинка человечка с выравниванием по правому краю -->
-  <img src="set_7396_by_makestick3_bot_AgADmZQAAnLOUUo.webm"align="right" />
+ 
+  <img src="romanticgin.gif"align="right" />
 
-  <!-- Текст, который будет обтекать её слева -->
   <img src="text (14).gif" alt="Yo! I'm" width="50%" />
   <br/>
 
